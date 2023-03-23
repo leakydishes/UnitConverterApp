@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="source_unit">Source Unit</string>
+    <string name="destination_unit">Destination Unit</string>
+    <string name="convert">Convert</string>
+    <string name="converted_unit">Converted Unit</string>
+    <string name="unit_converter">UNIT CONVERTER</string>
+    <string-array name="unit_weight">
+        <item>KILOGRAM</item>
+        <item>OUNCE</item>
+        <item>POUND</item>
+        <item>TON</item>
+        <item>GRAM</item>
+    </string-array>
+    <string-array name="unit_types_length">
+        <item>INCH</item>
+        <item>CENTIMETER</item>
+        <item>FOOT</item>
+        <item>YARD</item>
+        <item>METER</item>
+        <item>MILE</item>
+        <item>KILOMETER</item>
+    </string-array>
+    <string-array name="unit_types_temp">
+        <item>CELSIUS</item>
+        <item>FAHRENHEIT</item>
+        <item>KELVIN</item>
+    </string-array>
+</resources>
